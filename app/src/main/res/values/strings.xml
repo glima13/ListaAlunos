@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="botao">Salvar</string>
+    <string name="item1">Remover</string>
+    <string name="item2">Teste</string>
+    <string name="salvo">Salvar</string>
+</resources>
